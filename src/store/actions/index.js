@@ -1,0 +1,1 @@
+import {AuthActions, register2}  from "./auth.js"
